@@ -1,6 +1,6 @@
 # Ex.No:1a Study of Socket Programming
-# NAME:RAJAMANIKANDAN R
-# REG NO:212223220082
+NAME:RAJAMANIKANDAN R
+REG NO:212223220082
 
 ## Aim: 
 To perform a study on Socket Programming
